@@ -1,0 +1,23 @@
+Feature,Logical Definition
+clicks,	mouse click count
+pw_speed_burst_a,	password typing speed feature
+pw_speed_burst_b, 	password typing speed feature
+pw_speed_burst_c,	password typing speed feature
+pw_time, 	password typing time feature
+pw_pos_a, 	0…1 scaled processing typing speed feature
+pw_pos_b, 	0…1 scaled processing typing speed feature
+pw_pos_speed_a,	password typing speed feature
+pw_pos_speed_b,	password typing speed feature
+pw_pos_speed_d,	password typing speed feature
+pw_time_a,	password typing time feature
+pw_time_b,	password typing time feature
+un_speed_burst_a,	username typing speed feature
+un_speed_burst_b,	username typing speed feature
+un_time,	username typing time feature
+un_speed,	username typing speed feature
+un_pos_b,	username typing speed feature
+un_speed_burst_a_st,	username typing speed feature standard deviation
+un_speed_burst_c,	username typing speed feature
+un_speed_burst_b_st,	username typing speed feature standard deviation
+un_speed_burst_h,	username typing speed feature
+un_time_b,	username typing speed feature
